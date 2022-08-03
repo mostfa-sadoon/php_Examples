@@ -1,4 +1,4 @@
-<!-- this example with out dependency injection -->
+<!-- this example with  dependency injection -->
 <?php
 class product {
     public $product_name;
